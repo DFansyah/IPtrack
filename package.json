@@ -1,0 +1,16 @@
+{
+  "name": "IP-Tracker",
+  "description": "A simple IP Address tracker with nodeJS",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "node-fetch": "^3.3.2",
+    "yargs": "^17.7.2"
+  },
+  "keywords": [
+    "IP-Tracker",
+    "IP-Track",
+    "IP-Info"
+  ],
+  "lisences": "MIT",
+  "author": "DFansyah"
+}
